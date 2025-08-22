@@ -8,8 +8,10 @@ public class addition {
         int b = sc.nextInt();
         int c = a + b;
         System.out.println("The sum of the numbers c is:"  +c);
+        sc.close();
     }
 }
 
     
+
 
