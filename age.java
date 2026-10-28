@@ -5,7 +5,7 @@ public class age {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the birth year:");
         int birthyear = sc.nextInt();
-        int currentyear = 2025;
+        int currentyear = 2024;
         int age = currentyear - birthyear;
         System.out.println("Age: " + age); 
         sc.close();
