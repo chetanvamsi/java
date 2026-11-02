@@ -5,8 +5,8 @@ public class SquareArray {
         int[] squaresArray = new int[10];
 
         // Add squares of the numbers from 0 to 9 to the array
-        for (int i = 0; i < 10; i++) {
-            squaresArray[i] = i * i;
+        for (int j = 0; j < 10; j++) {
+            squaresArray[j] = j * j;
         }
 
         // Print the array
